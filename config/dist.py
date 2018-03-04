@@ -1,2 +1,5 @@
-BOT_TOKEN = '233981248:AAExDaDX20XxQcj67ilPDMkpa7QjjMEC0H4'
+# Создайте рядом файл `config.py`
+# и импортируйте/переопределите эти настройки в нём
+
+BOT_TOKEN = 'YOUR-BOT-TOKEN'
 DB_DSN = 'sqlite:///data.db'
