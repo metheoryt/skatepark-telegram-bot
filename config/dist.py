@@ -1,0 +1,2 @@
+BOT_TOKEN = '233981248:AAExDaDX20XxQcj67ilPDMkpa7QjjMEC0H4'
+DB_DSN = 'sqlite:///data.db'
