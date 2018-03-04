@@ -24,6 +24,6 @@ Telegram-бот для ведения небольшого крытого ске
 
 
 ## Технические детали
-Бот написан поверх (python-telegram-bot)[https://github.com/python-telegram-bot/python-telegram-bot],
-но основан на (концепции диалогов с помощью генераторов)[https://habrahabr.ru/post/316666/]
+Бот написан поверх [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),
+но основан на [концепции диалогов с помощью генераторов](https://habrahabr.ru/post/316666/).
 Работает только в приватных чатах.
